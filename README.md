@@ -2,6 +2,8 @@
 
 Predictivo de cancelación (churn) para Telecom X usando Python y ML.
 
+Abrir en Google Colab: https://colab.research.google.com/github/ladyvifra/telecom-x-churn-ml/blob/main/TelecomX_LATAM_final.ipynb
+
 ## 🎯 Objetivo
 - Preparar datos (limpieza, codificación, normalización).
 - Seleccionar variables (correlación, importancia).
